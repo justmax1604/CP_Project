@@ -19,7 +19,7 @@ The app serves as an access point to users to post their offered products and se
 - **Mobile: The app is mobile oriented as it would utilize maps, location, camera, push notifications (at least). Additionally, people spend more time on their mobile devices then on laptops etc.**
 - **Story: The value of the app is that users are able to exchange goods and services in their communities effectively and efficiently.**
 - **Market: Any person of legal age can become a user, as it can serve different needs of different people. Would like to target the US communities at first.**
-- **Habit: The app will likely be accessed daily to keep up with the exchange of goods and services in the community and for the users to post their own. **
+- **Habit: The app will likely be accessed daily to keep up with the exchange of goods and services in the community and for the users to post their own.**
 - **Scope: The MVP that we would like to build should be enough to assess the potential of the app. It might be challenging to implement all functionality by the end of the program.**
 
 ## Product Spec

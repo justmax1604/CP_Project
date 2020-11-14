@@ -1,7 +1,7 @@
-Original App Design Project - README Template
+Original App Design Project
 ===
 
-# APP_NAME_HERE
+# Locally
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -14,7 +14,7 @@ Original App Design Project - README Template
 The app serves as an access point to users to post their offered products and services and see what products and services are offered within their local community. Local comunity is identified using the location permission and a set radius. People can exchange goods and services (either paid or free) between themselves. The app provides a more transparent and trustworthy service and the speed of execution, as the users are located within one community.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category: Productivity, Social**
 - **Mobile: The app is mobile oriented as it would utilize maps, location, camera, push notifications (at least). Additionally, people spend more time on their mobile devices then on laptops etc.**
 - **Story: The value of the app is that users are able to exchange goods and services in their communities effectively and efficiently.**

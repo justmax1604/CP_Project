@@ -76,7 +76,6 @@ The app serves as an access point to users to post their offered products and se
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="wire.jpg" width=600>
 
 
